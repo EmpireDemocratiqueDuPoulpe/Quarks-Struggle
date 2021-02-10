@@ -14,5 +14,5 @@ De par sa taille (plus de 5 Go), le jeu est mis en ligne sur un site externe. Il
 
 ***[ENG]** The project is too big to be uploaded directly on GitHub (> 5Gb). This repository only contains documentations and downloaded or made by myself resources used in the project. You can download below the game build (easily sharable executable) or the unity project.*
 
-[![](https://i.imgur.com/kKNPXHx.png)](https://mega.nz/folder/oN8T3KxZ#h_qvmdfPdvAjiCbXF26r3A)
+[<img src="https://i.imgur.com/kKNPXHx.png" height="25"/>](https://mega.nz/folder/oN8T3KxZ#h_qvmdfPdvAjiCbXF26r3A)
 [![](https://i.imgur.com/LJ65MYn.png)](https://mega.nz/file/sYMgkZLC#dcR-TAmLRrHOUMANexTK7F8K4QTKCDsNtzXhWSBRTbw)
