@@ -19,6 +19,6 @@ De par sa taille (plus de 5 Go), le jeu est mis en ligne sur un site externe. Il
 [<img src="https://i.imgur.com/LJ65MYn.png" height="50"/>](https://mega.nz/file/sYMgkZLC#dcR-TAmLRrHOUMANexTK7F8K4QTKCDsNtzXhWSBRTbw)
 
 ## Problèmes connus / Known problems
-Le défaut principal du jeu réside dans le système de visée. Bien qu'il y ait un marqueur indiquant dans quelle direction pointe le vaisseau, la visée reste très compliquée et finie le jeu devient mission impossible. Si ce projet devrait recevoir des améliorations, c'est bien le système de visée qui serait retravaillé en premier.
+Le défaut principal du jeu réside dans le système de visée. Bien qu'il y ait un marqueur indiquant dans quelle direction pointe le vaisseau, la visée reste très compliquée et finir le jeu devient mission impossible. Si ce projet devrait recevoir des améliorations, c'est bien le système de visée qui serait retravaillé en premier.
 
 ***[ENG]** The main defect of the game stand in the aiming system. Although there is a marker indicating in which direction the ship is pointing, the aiming remains very complicated and the game becomes way too hard. If this project were to receive improvements, the aiming system would be reworked first.*
